@@ -12,7 +12,7 @@ I build open-source tools and experiments for algorithmic trading, quantitative 
 
 ## 📫 Contact
 Feel free to connect or collaborate:
-- [LinkedIn](https://www.linkedin.com/in/bruno-tavares-aa986b36a/)
+- [LinkedIn](https://www.linkedin.com/in/brbtavares/)
 - [GitHub](https://github.com/brbtavares)
 
 ---
