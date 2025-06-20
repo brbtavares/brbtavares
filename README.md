@@ -1,12 +1,12 @@
 # Bruno Tavares
 
 Quantitative researcher and developer with a strong background in mathematics and statistics.  
-I build open-source tools and experiments for algorithmic trading, quantitative modeling, and market data processing.  
+I build tools and experiments for quantitative modeling, and market data processing.  
 
 ---
 
 ## 🔭 Current Focus
-- Building clean, well-documented open-source projects for quantitative finance
+- Building clean, well-documented project for quantitative finance
 
 ---
 
