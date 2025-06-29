@@ -6,7 +6,7 @@ I build tools and experiments for quantitative modeling, and market data process
 ---
 
 ## 🔭 Current Focus
-- Building clean, well-documented project for quantitative finance
+- Building clean, well-documented projects for quantitative finance
 
 ---
 
