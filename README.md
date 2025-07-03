@@ -11,14 +11,8 @@ I build tools and experiments for quantitative modeling, and market data process
 ---
 
 ## 📫 Contact
-Feel free to connect or collaborate:
+Feel free to connect:
 - [LinkedIn](https://www.linkedin.com/in/brbtavares/)
 - [GitHub](https://github.com/brbtavares)
 
 ---
-
-## 💡 Philosophy
-I aim to build clear, practical, and reusable tools for the trading community, with a strong focus on transparency and reproducibility.
-
----
-
