@@ -1,12 +1,15 @@
 # Bruno Tavares
 
-Quantitative researcher and developer with a strong background in mathematics and statistics.  
-I build tools and experiments for quantitative modeling, and market data processing.  
+Rust developer with a strong background in mathematics and statistics.
+I build efficient, reliable systems with a focus on performance, correctness, and clear design.
 
 ---
 
 ## 🔭 Current Focus
-- Building clean, well-documented palgorithmic trading ecosystem of Rust libraries for building high-performance live-trading, paper-trading and back-testing systems
+
+* Developing clean, well-structured Rust libraries and applications.
+* Applying mathematical and statistical reasoning to solve complex engineering problems.
+* Exploring systems programming, data processing, and performance optimization.
 
 ---
 
